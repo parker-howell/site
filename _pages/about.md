@@ -7,5 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-testing...
+I am a PhD student studying Economics at the University of Michigan.
 
